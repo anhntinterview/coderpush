@@ -1,0 +1,1 @@
+export const validationErrorMsg = "One or more of fields were empty!"
